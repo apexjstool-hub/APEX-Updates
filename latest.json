@@ -26,6 +26,15 @@
       "file": "updates/battery/APEX-Battery-Lab-2.1.3-Clean-Full-Width-Summary.apexupdate",
       "sha256": "08abc17ef943766f12a89da43c4b82170f210fdaa2caa8d1d2654d32a59f9130",
       "sizeBytes": 9731
+    },
+    "settings": {
+      "name": "APEX Online Update Test",
+      "version": "2.1.1",
+      "minCoreVersion": "2.51.1",
+      "description": "Harmless online delivery test. Preserves Settings styling and displays a dismissible success message after restart.",
+      "file": "updates/settings/APEX-Online-Update-Test-v2.1.1.apexupdate",
+      "sha256": "cc2565e3e612f75b58cf99d932f3cd68f67acf737acb9c7d75b62ffe667b925a",
+      "sizeBytes": 3506
     }
   }
 }
