@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "product": "APEX Laptop Diagnostics",
+  "channel": "stable",
+  "core": {
+    "version": "2.51.1",
+    "updateType": "manual",
+    "download": null,
+    "notes": "Core EXE updates are not enabled in this starter feed."
+  },
+  "modules": {
+    "system": {
+      "name": "APEX Hardware & Storage Tabbed Section",
+      "version": "1.3.0",
+      "minCoreVersion": "2.51.1",
+      "description": "Keeps one Hardware section in the sidebar and adds two clean internal pages, Hardware and Storage, each with its own original scan action and results area.",
+      "file": "updates/system/APEX-Hardware-Storage-Tabbed-Section-v1.3.0.apexupdate",
+      "sha256": "2bda0a5628182e451808ed0fcb3dc00be87e8a71c62bb11869c1aa6557b71b94",
+      "sizeBytes": 4777
+    },
+    "battery": {
+      "name": "APEX Battery Lab - Clean Full Width Summary",
+      "version": "2.1.3",
+      "minCoreVersion": "2.48.0",
+      "description": "Battery Lab 2.1.3 fixes the Power Test summary band so all six cards span the full available width without cramped left-side layout.",
+      "file": "updates/battery/APEX-Battery-Lab-2.1.3-Clean-Full-Width-Summary.apexupdate",
+      "sha256": "08abc17ef943766f12a89da43c4b82170f210fdaa2caa8d1d2654d32a59f9130",
+      "sizeBytes": 9731
+    }
+  }
+}
