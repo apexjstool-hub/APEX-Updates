@@ -55,13 +55,13 @@
       "sizeBytes": 4621
     },
     "report": {
-      "name": "APEX Professional Functional Reports",
-      "version": "3.0.0",
+      "name": "APEX Professional A4 Report",
+      "version": "3.1.0",
       "minCoreVersion": "2.51.1",
-      "description": "Public-readiness report overhaul: strict overall PASS / FAIL / REVIEW REQUIRED verdicts, Pass/Fail/Review/Not Tested/N/A states, verification source and evidence counts, APEX branding, dynamic core versioning, JSON/CSV evidence exports, and frozen SHA-256 final-report snapshots.",
-      "file": "APEX-report-3.0.0.apexupdate",
-      "sha256": "a78490d89caeb6cab8700d648e5490b103679ac3ba284d279e7af80f0ef28b7a",
-      "sizeBytes": 7220
+      "description": "Professional single-page A4 functional report with the APEX logo, compact full test matrix, hardware/storage specification summary, optional evidence trail, strict PASS/FAIL/REVIEW logic, dynamic APEX versioning, and frozen SHA-256 final-report snapshots.",
+      "file": "APEX-report-3.1.0.apexupdate",
+      "sha256": "1750e913ad5380e31a7024d1835afb9e38c5f60458a7c7d15024dd023874013e",
+      "sizeBytes": 11390
     },
     "gauntlet": {
       "name": "APEX Decision Integrity",
