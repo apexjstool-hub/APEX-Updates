@@ -1,5 +1,5 @@
 {
-  "feedUrl": "https://raw.githubusercontent.com/APEX-Updates/APEX-Updates/main/latest.json",
+  "feedUrl": "https://raw.githubusercontent.com/apexjstool-hub/APEX-Updates/main/latest.json",
   "channel": "stable",
   "checkOnStartup": true,
   "allowManualCheck": true,
