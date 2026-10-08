@@ -55,13 +55,13 @@
       "sizeBytes": 4621
     },
     "report": {
-      "name": "APEX Professional A4 Report",
-      "version": "3.1.0",
+      "name": "APEX Professional A4 Report - Exact PDF Export",
+      "version": "3.1.1",
       "minCoreVersion": "2.51.1",
-      "description": "Professional single-page A4 functional report with the APEX logo, compact full test matrix, hardware/storage specification summary, optional evidence trail, strict PASS/FAIL/REVIEW logic, dynamic APEX versioning, and frozen SHA-256 final-report snapshots.",
-      "file": "APEX-report-3.1.0.apexupdate",
-      "sha256": "1750e913ad5380e31a7024d1835afb9e38c5f60458a7c7d15024dd023874013e",
-      "sizeBytes": 11390
+      "description": "Exports only the finished APEX final functional report to PDF, matching the report shown in the tool while excluding surrounding application UI, controls and broken file/image placeholders. Retains the one-page A4 design, APEX logo, hardware/storage summary, optional evidence trail and strict PASS/FAIL/REVIEW logic.",
+      "file": "APEX-report-3.1.1.apexupdate",
+      "sha256": "78822474c2d046a569ddc7cb9b76caf6311dec398125351530fcf135505a064d",
+      "sizeBytes": 13126
     },
     "gauntlet": {
       "name": "APEX Decision Integrity",
