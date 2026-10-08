@@ -56,12 +56,12 @@
     },
     "report": {
       "name": "APEX Professional A4 Report - Exact PDF Export",
-      "version": "3.1.1",
+      "version": "3.1.2",
       "minCoreVersion": "2.51.1",
-      "description": "Exports only the finished APEX final functional report to PDF, matching the report shown in the tool while excluding surrounding application UI, controls and broken file/image placeholders. Retains the one-page A4 design, APEX logo, hardware/storage summary, optional evidence trail and strict PASS/FAIL/REVIEW logic.",
-      "file": "updates/report/APEX-report-3.1.1.apexupdate",
-      "sha256": "78822474c2d046a569ddc7cb9b76caf6311dec398125351530fcf135505a064d",
-      "sizeBytes": 13126
+      "description": "Report and PDF show only performed diagnostic tests. Untested touchscreen and system stability rows are omitted.",
+      "file": "updates/report/APEX-report-3.1.2.apexupdate",
+      "sha256": "af4e3eb90d5d3fe82873fb3926b0f06486d5fa221ae3e920508e527a0574aca4",
+      "sizeBytes": 44870
     },
     "gauntlet": {
       "name": "APEX Decision Integrity",
