@@ -14,7 +14,7 @@
       "version": "4.2.2",
       "minCoreVersion": "2.48.0",
       "description": "Display + Touch Suite 4.2.2: touchscreen grid itself now enters fullscreen edge-to-edge, removing the surrounding laboratory panels so every grid area can be touched across the whole display.",
-      "file": "APEX-display-4.2.2.apexupdate",
+      "file": "updates/display/APEX-display-4.2.2.apexupdate",
       "sha256": "efa3ba319982cddbd91d5ef109ad8fcd9c4e6a2b3cf13a1ee05ebabaab048a75",
       "sizeBytes": 19270
     },
@@ -23,7 +23,7 @@
       "version": "1.1.0",
       "minCoreVersion": "2.48.0",
       "description": "APEX Keyboard Lab 1.1: polished professional keyboard diagnostics with fully centred key labels, refined key geometry, cleaner surrounding UI and APEX violet/cyan verified states replacing the previous green styling.",
-      "file": "APEX-keyboard-1.1.0.apexupdate",
+      "file": "updates/keyboard/APEX-keyboard-1.1.0.apexupdate",
       "sha256": "24e2efccbcc02fe0787aae60cf51de6cac32ceeff6d51bce94dfdc7248f18bc8",
       "sizeBytes": 8487
     },
@@ -32,7 +32,7 @@
       "version": "1.2.1",
       "minCoreVersion": "2.48.0",
       "description": "Restores the original Camera, Speakers and Microphone page and removes the obsolete Application Mode / Browser Mode selector UI from the desktop tool.",
-      "file": "APEX-media-1.2.1.apexupdate",
+      "file": "updates/media/APEX-media-1.2.1.apexupdate",
       "sha256": "732b9b4544726235bc59801b8550aa9ff0e8cda0fad12d702bdbeeea85ea1d9b",
       "sizeBytes": 3544
     },
@@ -41,7 +41,7 @@
       "version": "2.1.3",
       "minCoreVersion": "2.48.0",
       "description": "Battery Lab 2.1.3 fixes the Power Test summary band so all six cards span the full available width without cramped left-side layout.",
-      "file": "APEX-battery-2.1.3.apexupdate",
+      "file": "updates/battery/APEX-battery-2.1.3.apexupdate",
       "sha256": "abda1555c76ace6ad6977f53620bacf6f14781a396d234a9acee331945224220",
       "sizeBytes": 9574
     },
@@ -50,7 +50,7 @@
       "version": "1.3.0",
       "minCoreVersion": "2.51.1",
       "description": "Keeps one Hardware section in the sidebar and adds two clean internal pages, Hardware and Storage, each with its own original scan action and results area.",
-      "file": "APEX-system-1.3.0.apexupdate",
+      "file": "updates/system/APEX-system-1.3.0.apexupdate",
       "sha256": "a995eeb1ffa3e9a492eb6ae75eae6d68f1c4555f8a3400d73ebfed18c4da6dc0",
       "sizeBytes": 4621
     },
@@ -59,7 +59,7 @@
       "version": "3.1.1",
       "minCoreVersion": "2.51.1",
       "description": "Exports only the finished APEX final functional report to PDF, matching the report shown in the tool while excluding surrounding application UI, controls and broken file/image placeholders. Retains the one-page A4 design, APEX logo, hardware/storage summary, optional evidence trail and strict PASS/FAIL/REVIEW logic.",
-      "file": "APEX-report-3.1.1.apexupdate",
+      "file": "updates/report/APEX-report-3.1.1.apexupdate",
       "sha256": "78822474c2d046a569ddc7cb9b76caf6311dec398125351530fcf135505a064d",
       "sizeBytes": 13126
     },
@@ -68,7 +68,7 @@
       "version": "2.0.0",
       "minCoreVersion": "2.51.1",
       "description": "Corrects advanced diagnostic decision integrity so scores 65-79 are Review rather than Pass, aligns machine-health evidence with the verdict, and exposes a built-in decision-policy self-test.",
-      "file": "APEX-gauntlet-2.0.0.apexupdate",
+      "file": "updates/gauntlet/APEX-gauntlet-2.0.0.apexupdate",
       "sha256": "aeb3765799c3bfcde637e4efcb63cbf7f417f16467db1f261a4211d0deedd52b",
       "sizeBytes": 1817
     },
@@ -77,7 +77,7 @@
       "version": "2.2.0",
       "minCoreVersion": "2.51.1",
       "description": "Keeps the professional Settings sidebar, adds APEX self-health checks, privacy-safe support snapshot export, restore/cleanup maintenance actions and a one-time non-popup getting-started guide. It creates no startup update success toast or green update panel.",
-      "file": "APEX-settings-2.2.0.apexupdate",
+      "file": "updates/settings/APEX-settings-2.2.0.apexupdate",
       "sha256": "e7b14a1465657164d3f06ab2d38f7d4cdc317941a8ef7e9b53da09655460fe80",
       "sizeBytes": 6094
     }
