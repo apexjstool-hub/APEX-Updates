@@ -1,4 +1,39 @@
-__pycache__/
-*.pyc
+# Operating-system and editor files
 .DS_Store
 Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary Python / Node files
+__pycache__/
+*.py[cod]
+node_modules/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Locally generated build products (do not commit these)
+dist/
+build/
+out/
+release-output/
+APEX-PORTABLE/
+*.exe
+*.msi
+*.msix
+*.zip
+*.7z
+
+# Temporary diagnostic and build files
+*.log
+*.tmp
+*.temp
+*.bak
+*.old
+
+# IMPORTANT: Do not ignore latest.json or *.apexupdate:
+# these are currently downloaded directly from the main branch by APEX.
